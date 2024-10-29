@@ -13,3 +13,5 @@ It is a "typed" assembler with limited capabilities in addressing various decisi
 * generating GPU programs
 * generating native interfaces for cross-platform deployments
    * Windows / Linux / OSX / WASM / Android / iOS etc.
+
+<img src="https://github.com/andrew-johnson-4/draft-table/blob/main/fun-house.png?raw=true" height=400 title="Doby exploring a carnival fun house">
